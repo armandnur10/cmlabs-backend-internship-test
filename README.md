@@ -1,6 +1,6 @@
-# FizzBuzz Test
+# FizzBuzz cmlabs Test
 
-> FizzBuzz Test for CMLAB backend application
+> FizzBuzz Test for CMLAB backend application internship
 
 ## Install Dependencies
 
